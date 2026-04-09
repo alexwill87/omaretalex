@@ -13,11 +13,11 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Omar & Alex — Votre equipe IA",
-  description: "Services d'intelligence artificielle accessibles pour tous. Missions a la volee, agent dedie, installation sur mesure.",
+  title: "Omar & Alex — Votre équipe IA",
+  description: "Services d'intelligence artificielle accessibles pour tous. Missions à la volée, agent dédié, installation sur mesure.",
   openGraph: {
-    title: "Omar & Alex — Votre equipe IA",
-    description: "L'IA qui travaille pour vous. Pas de jargon, pas de peur, juste des resultats.",
+    title: "Omar & Alex — Votre équipe IA",
+    description: "L'IA qui travaille pour vous. Pas de jargon, pas de peur, juste des résultats.",
     url: "https://omaretalex.fr",
   },
 };
